@@ -1,0 +1,23 @@
+/* Styles specific to the WebCam component */
+.webcam-container video {
+    width: 70%;
+    height: auto;
+    border: 1px solid #ccc;
+    margin: 20px 28rem;
+}
+
+.webcam-container button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.tracking-message {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
