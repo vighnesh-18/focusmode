@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import WelcomeScreen from './WelcomeScreen';
-import WebCam from './WebCam';
+import WelcomeScreen from './components/WelcomeScreen';
+import WebCam from './components/WebCam';
 import './App.css';
 
 const App = () => {
